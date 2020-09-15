@@ -7,4 +7,5 @@
 - 🌱 I’m currently learning **Android**
 - 💬 Ask me about **x86 assembly and System programing**
 - 📫 How to reach me: **ameensyeed2@gmail.com**
+- linkedin :**https://www.linkedin.com/in/syeed-mohd-ameen-13641a1b4/**
   
