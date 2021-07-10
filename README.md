@@ -7,5 +7,8 @@
 - 🌱 I’m currently learning **Android**
 - 💬 Ask me about **x86 assembly and System programing**
 - 📫 How to reach me: **ameensyeed2@gmail.com**
-- linkedin :**https://www.linkedin.com/in/syeed-mohd-ameen-13641a1b4/**
+- linkedin : [**Linkedin**](https://www.linkedin.com/in/syeed-mohd-ameen-13641a1b4/)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=syeedameen.syeedameen)
   
+![Syeed's github stats](https://github-readme-stats.vercel.app/api/?username=syeedameen&theme=prussian&show_icons=true&count_private=true)
