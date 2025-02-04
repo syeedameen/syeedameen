@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on **MCS-51 Assembler**
-- 🌱 I’m currently learning **Android**
+- 🔭 I’m currently working on **MCS-51 Assembler & [glucose](https://github.com/syeedameen/glucose)**
+- 🌱 I’m currently learning **Android & iOS**
 - 💬 Ask me about **x86 assembly and System programing**
 - 📫 How to reach me: **ameensyeed2@gmail.com**
 - Buy me a Coffee: [**Buy Here**](https://buymeacoffee.com/ameensyeedx) 
